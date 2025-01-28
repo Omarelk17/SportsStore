@@ -3,18 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{956EDE78-6553-4C14-8CA9-6BDFD4B6B428}|SportsStore.Domain\\SportsStore.Domain.csproj|C:\\Users\\elkomaa\\source\\repos\\SportsStore\\sportsstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{956EDE78-6553-4C14-8CA9-6BDFD4B6B428}|SportsStore.Domain\\SportsStore.Domain.csproj|solutionrelative:sportsstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30DA1055-835F-49AA-A57B-15F183096C3A}|SportsStore.WebUI\\SportsStore.WebUI.csproj|c:\\users\\elkomaa\\source\\repos\\sportsstore\\sportsstore.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DA1055-835F-49AA-A57B-15F183096C3A}|SportsStore.WebUI\\SportsStore.WebUI.csproj|solutionrelative:sportsstore.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SportsStore.WebUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30DA1055-835F-49AA-A57B-15F183096C3A}|SportsStore.WebUI\\SportsStore.WebUI.csproj|c:\\users\\elkomaa\\source\\repos\\sportsstore\\sportsstore.webui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{956EDE78-6553-4C14-8CA9-6BDFD4B6B428}|SportsStore.Domain\\SportsStore.Domain.csproj|C:\\Users\\elkomaa\\source\\repos\\SportsStore\\sportsstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956EDE78-6553-4C14-8CA9-6BDFD4B6B428}|SportsStore.Domain\\SportsStore.Domain.csproj|solutionrelative:sportsstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,36 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SportsStore.WebUI",
-              "DocumentMoniker": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj",
-              "RelativeDocumentMoniker": "SportsStore.WebUI\\SportsStore.WebUI.csproj",
-              "ToolTip": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj",
-              "RelativeToolTip": "SportsStore.WebUI\\SportsStore.WebUI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-27T17:16:18.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "SportsStore.WebUI\\App_Start\\RouteConfig.cs",
               "ToolTip": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "SportsStore.WebUI\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T17:15:06.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "SportsStore.Domain\\Class1.cs",

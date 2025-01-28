@@ -1,0 +1,6 @@
+C:\Users\elkomaa\source\repos\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\elkomaa\source\repos\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\elkomaa\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.AssemblyReference.cache
+C:\Users\elkomaa\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elkomaa\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\elkomaa\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
