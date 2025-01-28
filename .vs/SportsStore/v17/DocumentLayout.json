@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30DA1055-835F-49AA-A57B-15F183096C3A}|SportsStore.WebUI\\SportsStore.WebUI.csproj|c:\\users\\elkomaa\\source\\repos\\sportsstore\\sportsstore.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30DA1055-835F-49AA-A57B-15F183096C3A}|SportsStore.WebUI\\SportsStore.WebUI.csproj|solutionrelative:sportsstore.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30DA1055-835F-49AA-A57B-15F183096C3A}|SportsStore.WebUI\\SportsStore.WebUI.csproj|c:\\users\\elkomaa\\source\\repos\\sportsstore\\sportsstore.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DA1055-835F-49AA-A57B-15F183096C3A}|SportsStore.WebUI\\SportsStore.WebUI.csproj|solutionrelative:sportsstore.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{956EDE78-6553-4C14-8CA9-6BDFD4B6B428}|SportsStore.Domain\\SportsStore.Domain.csproj|C:\\Users\\elkomaa\\source\\repos\\SportsStore\\sportsstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{956EDE78-6553-4C14-8CA9-6BDFD4B6B428}|SportsStore.Domain\\SportsStore.Domain.csproj|solutionrelative:sportsstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30DA1055-835F-49AA-A57B-15F183096C3A}|SportsStore.WebUI\\SportsStore.WebUI.csproj|c:\\users\\elkomaa\\source\\repos\\sportsstore\\sportsstore.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DA1055-835F-49AA-A57B-15F183096C3A}|SportsStore.WebUI\\SportsStore.WebUI.csproj|solutionrelative:sportsstore.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "SportsStore.WebUI\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "SportsStore.WebUI\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Title": "NinjectWebCommon.cs",
+              "DocumentMoniker": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeDocumentMoniker": "SportsStore.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ToolTip": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeToolTip": "SportsStore.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:15:06.638Z",
+              "WhenOpened": "2025-01-28T16:54:28.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "SportsStore.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.Domain\\Class1.cs",
-              "RelativeToolTip": "SportsStore.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "NinjectDependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeDocumentMoniker": "SportsStore.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ToolTip": "C:\\Users\\elkomaa\\source\\repos\\SportsStore\\SportsStore.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeToolTip": "SportsStore.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:12:32.283Z",
+              "WhenOpened": "2025-01-28T16:42:28.339Z",
               "EditorCaption": ""
             }
           ]
